@@ -1,0 +1,22 @@
+body {
+  background: url('us-bg.jpg');
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  padding-top: 80px;
+}
+
+.card-text{
+  padding-left: 20px;
+}
+
+html {
+  font-size: 120%;
+}
+
+.text-muted{
+  font-size: 80%;
+}
